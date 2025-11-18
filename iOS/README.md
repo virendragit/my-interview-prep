@@ -1,11 +1,11 @@
 # my-interview-prep
 
-Intial plan of prepration: 
+# Intial plan of prepration: 
 
-https://copilot.microsoft.com/chats/8ZkCPd54oW3a133MqxWRZ
+### https://copilot.microsoft.com/chats/8ZkCPd54oW3a133MqxWRZ
 
-Preparation Strategy for Senior iOS Developer Interviews
-1. Core iOS & Swift Fundamentals
+# Preparation Strategy for Senior iOS Developer Interviews
+### 1. Core iOS & Swift Fundamentals
 Swift language mastery
 
 Advanced features: Generics, Protocol-Oriented Programming, Extensions, Property Wrappers
@@ -24,7 +24,7 @@ Objective-C Interoperability
 
 Bridging headers, mixed projects, runtime features
 
-2. Mobile Architecture & Design Patterns
+### 2. Mobile Architecture & Design Patterns
 MVC, MVVM, VIPER, Clean Architecture
 
 Dependency Injection & modularization
@@ -35,7 +35,7 @@ SOLID principles applied to iOS projects
 
 Testability and maintainability in large-scale apps
 
-3. System Design & Scalability
+### 3. System Design & Scalability
 At 13 years, you’ll be expected to design large-scale mobile systems:
 
 App architecture for millions of users
@@ -62,7 +62,7 @@ Keychain, biometrics, secure storage
 
 Encryption, SSL pinning
 
-4. Cross-Functional Knowledge
+### 4. Cross-Functional Knowledge
 CI/CD pipelines (Fastlane, GitHub Actions, Jenkins)
 
 App Store deployment (TestFlight, provisioning profiles, certificates)
@@ -71,7 +71,7 @@ Analytics & monitoring (Firebase, Crashlytics, New Relic)
 
 Cross-platform awareness (Flutter, React Native — even if not expert, awareness helps)
 
-5. Leadership & Senior-Level Expectations
+### 5. Leadership & Senior-Level Expectations
 Team management
 
 Mentoring junior developers
@@ -92,7 +92,7 @@ Driving features end-to-end
 
 Handling ambiguity in requirements
 
-6. Interview Preparation
+### 6. Interview Preparation
 Coding rounds
 
 LeetCode-style problems (arrays, strings, trees, dynamic programming)
@@ -113,7 +113,7 @@ STAR method (Situation, Task, Action, Result)
 
 Leadership, conflict resolution, project delivery stories
 
-7. Strategic Job Search
+### 7. Strategic Job Search
 Target companies: Product-based firms (Microsoft, PayPal, Amazon, Flipkart, Swiggy, Byju’s, startups with strong mobile presence)
 
 Networking: LinkedIn referrals, alumni connections
@@ -123,12 +123,12 @@ Resume: Highlight leadership, scalability, and impact (e.g., “Led iOS team of 
 Timeline: With focused prep, expect 2–4 months to land a role
 
 Suggested Timeline
-Weeks 1–2: Refresh Swift, iOS fundamentals, concurrency
+# Weeks 1–2: Refresh Swift, iOS fundamentals, concurrency
 
-Weeks 3–4: Deep dive into architecture, system design
+# Weeks 3–4: Deep dive into architecture, system design
 
-Weeks 5–6: Practice coding problems daily (LeetCode, HackerRank)
+# Weeks 5–6: Practice coding problems daily (LeetCode, HackerRank)
 
-Weeks 7–8: Mock interviews, behavioral prep, resume polishing
+# Weeks 7–8: Mock interviews, behavioral prep, resume polishing
 
-Weeks 9+: Apply aggressively, leverage referrals, interview loop
+# Weeks 9+: Apply aggressively, leverage referrals, interview loop
