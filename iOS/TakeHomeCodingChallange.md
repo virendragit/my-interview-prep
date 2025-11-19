@@ -10,4 +10,4 @@ Lets Split into smaller Tasks:
 5. Unit Testing.
 6. UI Testing.
 7. If time allows documenting.
-
+8. Adhare with SOLID Design Principle.
