@@ -12,6 +12,17 @@
 | Make resume updated| ☐ To Do  | Low      |    |
 | Apply to jobs| ☐ To Do  | Low      |    |
 
+**Day 2:** 19 November 2025 ☐ To Do  ☑ Done  
+| Task                        | Status   | Priority | Notes                  |
+|-----------------------------|----------|----------|------------------------|
+| Dart session mgmt           | ☐ To Do  | High     | |
+| iOS Basics List prepration  |  ☐ To Do  | Medium   |    |
+| Problem of the day Solution     | ☐ To Do  | High     |          |
+| Make resume updated| ☐ To Do  | Low      |    |
+| Apply to jobs| ☐ To Do  | Low      |    |
+| Work on takehome| ☐ To Do  | High      |    |
+| Work on cleanArchitecture| ☐ To Do  | High      |    |
 
+ref : https://www.youtube.com/watch?v=M652U3vh5SQ
 
 
