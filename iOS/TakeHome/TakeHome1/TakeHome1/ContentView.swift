@@ -10,37 +10,46 @@
 import SwiftUI
 
 struct ContentView: View {
+//    var body: some View {
+//        NavigationStack {
+//            // 🚀 Navigation button
+//            NavigationLink("Go to ScrollView") {
+//                SampleScrollView()
+//            }
+//            .buttonStyle(.borderedProminent) // nice styled button
+//            .padding(.top, 20)
+//        }
+//        .navigationTitle("Main View")
+//        
+//        Spacer()
+//        
+//    }
     var body: some View {
-        ScrollView(.horizontal) {
-            HStack {
-                ForEach(1...20, id: \.self) { index in
-                    Text("Item \(index)")
-                        .padding()
-                        .background(Color.green.opacity(0.3))
-                        .cornerRadius(8)
+            NavigationStack {
+                ZStack {
+                    VStack {
+                        Spacer()
+                        HStack {
+                            Spacer()
+                            NavigationLink(destination: SampleScrollView()) {
+                                Image(systemName: "arrow.right.circle.fill")
+                                    .font(.system(size: 30))
+                                    .foregroundColor(.white)
+                                    .padding()
+                                    .background(Color.blue)
+                                    .clipShape(Circle())
+                                    .shadow(radius: 5)
+                            }
+                            .padding()
+                        }
+                    }
                 }
-            }
-            .padding()
-        }
-        ScrollView() {
-            VStack {
-                ForEach(1...20, id: \.self) { index in
-                    Text("Item \(index)")
-                        .font(.headline)
-                        .frame(maxWidth: .infinity)
-                        .padding()
-                        .background(Color.blue.opacity(0.2))
-                        .cornerRadius(8)
-                }
+                .navigationTitle("Main View")
+                .navigationBarTitleDisplayMode(.inline)
             }
         }
-        .padding()
-
-      Spacer()
-    }
-       
-    
 }
+    
 
 #Preview {
     ContentView()
