@@ -30,6 +30,16 @@ final class TakeHome1UITests: XCTestCase {
 
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
+    
+    func testErrorMessageAppears() throws {
+        let app = XCUIApplication()
+        app.launchArguments.append("--mockError") // configure app to fail
+        app.launch()
+
+        let errorText = app.staticTexts["Error:"]
+        let exists = errorText.waitForExistence(timeout: 5)
+        XCTAssertTrue(exists, "Error message should appear when API fails")
+    }
 
     @MainActor
     func testLaunchPerformance() throws {
