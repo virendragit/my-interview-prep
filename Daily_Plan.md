@@ -27,7 +27,7 @@ ref : https://www.youtube.com/watch?v=M652U3vh5SQ
 
 **Day 3** Did Interview prepration for AA 
 
-**Day 2:** 21 November 2025 ☐ To Do  ☑ Done  
+**Day 4:** 21 November 2025 ☐ To Do  ☑ Done  
 | Task                        | Status   | Priority | Notes                  |
 |-----------------------------|----------|----------|------------------------|
 | Dart session mgmt           | ☐ To Do  | High     | |
@@ -37,3 +37,11 @@ ref : https://www.youtube.com/watch?v=M652U3vh5SQ
 | Apply to jobs| ☐ To Do  | Low      |    |
 | Work on takehome| ☐ To Do  | High      |    |
 | Work on cleanArchitecture| ☐ To Do  | High      |    |
+
+**Day 4:** 22 November 2025 : Worked on Swift UI + plannning + property wrapper + oapque 
+**Day 4:** 23 November 2025 
+| Task                        | Status   | Priority | Notes                  |
+|-----------------------------|----------|----------|------------------------|
+| Dart session mgmt           | ☐ To Do  | High     | |
+| Support Work  |  ☐ To Do  | Medium   |    |
+
