@@ -39,9 +39,15 @@ ref : https://www.youtube.com/watch?v=M652U3vh5SQ
 | Work on cleanArchitecture| ☐ To Do  | High      |    |
 
 **Day 4:** 22 November 2025 : Worked on Swift UI + plannning + property wrapper + oapque 
+
 **Day 4:** 23 November 2025 
 | Task                        | Status   | Priority | Notes                  |
 |-----------------------------|----------|----------|------------------------|
 | Dart session mgmt           | ☐ To Do  | High     | |
 | Support Work  |  ☐ To Do  | Medium   |    |
 
+**Day 5:** 24 November 2025 
+| Task                        | Status   | Priority | Notes                  |
+|-----------------------------|----------|----------|------------------------|
+| Dart session mgmt           | ☐ To Do  | High     | |
+| Support Work  |  ☐ To Do  | Medium   |    |
