@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-//Add Navigation bar in view add one right bar button on tapping on it will take you the next page which is SixNeverKnowComponentExised page
+//Add Navigation bar in view add one right bar button on tapping on it will take you the next page which is SixNeverKnowComponentExised page(Done)
 //Practice 6 thing
 //Timeline
 //Disclouse View
@@ -19,29 +19,36 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        HStack{
-            VStack {
-
-                let endDate = Date().addingTimeInterval(30)
-
-                TimelineView(.periodic(from: .now, by: 1)) { context in
-                               let remaining = max(Int(endDate.timeIntervalSince(context.date)), 0)
-                               Text("\(remaining)s left")
-                                   .font(.system(size: 36, weight: .bold, design: .rounded))
-                                   .foregroundColor(remaining == 0 ? .red : .green)
-                                   .animation(.easeInOut, value: remaining)
-                           }
-                }
-            
-            
-                
-                Spacer()
-                
+        NavigationStack{
+            VStack{
+//                Text"
             }
-            Spacer()
+            
+            .navigationTitle("Home")
+            
+            .navigationBarTitleDisplayMode(.inline)
+            .toolbarBackground(Color.teal, for: .navigationBar)
+            .toolbarColorScheme(.light, for: .navigationBar)
+            .toolbarBackground(.visible, for: .navigationBar)
+            .toolbar {
+                ToolbarItem(placement: .navigationBarLeading) {
+                    NavigationLink(destination: SixNeverKnowExisted()) {
+                        Image(systemName: "arrow.left")
+                    }
+                }
+                ToolbarItem(placement: .navigationBarTrailing) {
+                    NavigationLink(destination: SixNeverKnowExisted()){
+                        Image(systemName: "arrow.right")
+                    }
+                }
+            }
         }
-//        .padding()
-    }
+        
+        
+            }
+           
+        }
+        
 
 
 #Preview {
