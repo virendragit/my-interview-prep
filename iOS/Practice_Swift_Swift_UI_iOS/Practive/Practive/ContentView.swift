@@ -32,7 +32,7 @@ struct ContentView: View {
             .toolbarBackground(.visible, for: .navigationBar)
             .toolbar {
                 ToolbarItem(placement: .navigationBarLeading) {
-                    NavigationLink(destination: SixNeverKnowExisted()) {
+                    NavigationLink(destination: ScemePhase()) {
                         Image(systemName: "arrow.left")
                     }
                 }
