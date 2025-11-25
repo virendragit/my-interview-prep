@@ -18,10 +18,21 @@ import SwiftUI
 
 
 struct ContentView: View {
+    
+    @State var selectedColor: Color = .blue
+    
+    
     var body: some View {
         NavigationStack{
-            VStack{
-//                Text"
+            VStack(spacing: 16) {
+                ColorPicker("Choose Color", selection: $selectedColor, supportsOpacity: true)
+                HStack(spacing: 12) {
+                    Text("Selected:")
+                    Circle()
+                        .fill(selectedColor)
+                        .frame(width: 24, height: 24)
+                        .overlay(Circle().stroke(Color.primary.opacity(0.2), lineWidth: 1))
+                }
             }
             
             .navigationTitle("Home")
