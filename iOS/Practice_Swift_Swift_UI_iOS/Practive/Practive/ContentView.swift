@@ -24,6 +24,8 @@ struct ContentView: View {
     
     var body: some View {
         NavigationStack{
+            Label("Cart", systemImage: "arrow.2.circlepath.circle")
+                        .font(.largeTitle)
             VStack(spacing: 16) {
                 ColorPicker("Choose Color", selection: $selectedColor, supportsOpacity: true)
                 HStack(spacing: 12) {
