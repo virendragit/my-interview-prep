@@ -7,6 +7,16 @@
 
 import SwiftUI
 
+//Add Navigation bar in view add one right bar button on tapping on it will take you the next page which is SixNeverKnowComponentExised page
+//Practice 6 thing
+//Timeline
+//Disclouse View
+//Canvas
+//Scene phase
+//Color picker
+//label
+
+
 struct ContentView: View {
     var body: some View {
         HStack{
