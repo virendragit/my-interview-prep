@@ -51,3 +51,9 @@ ref : https://www.youtube.com/watch?v=M652U3vh5SQ
 |-----------------------------|----------|----------|------------------------|
 | Dart session mgmt           | ☐ To Do  | High     | |
 | Support Work  |  ☐ To Do  | Medium   |    |
+
+**Day 6:** 25 November 2025 
+| Task                        | Status   | Priority | Notes                  |
+|-----------------------------|----------|----------|------------------------|
+| Work on some not popular compnent in swift UI          | ☑ Done    | High     | |
+| Flutter learning (Statlful widget) |  ☑ Done   | High   |    |
