@@ -57,3 +57,12 @@ ref : https://www.youtube.com/watch?v=M652U3vh5SQ
 |-----------------------------|----------|----------|------------------------|
 | Work on some not popular compnent in swift UI          | ☑ Done    | High     | |
 | Flutter learning (Statlful widget) |  ☑ Done   | High   |    |
+
+**Day 7:** 26 November 2025 
+| Task                        | Status   | Priority | Notes                  |
+|-----------------------------|----------|----------|------------------------|
+| Flutter(photo widget and submission of Inspection)          | ☑ Done    | High     | |
+| Take home 2 task practive |  ☑ Done   | High   |    |
+| 95 page interview Qaution |  ☑ Done   | High   |    |
+| 1 DSA Question |  ☑ Done   | High   |    |
+
