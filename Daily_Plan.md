@@ -65,6 +65,7 @@ ref : https://www.youtube.com/watch?v=M652U3vh5SQ
 | Take home 2 task practive |  ☑ Done   | High   |    |
 | 95 page interview Qaution |  ☑ Done   | High   |    |
 | 1 DSA Question |  ☑ Done   | High   |    |
+
 **Day 8:** 27 November 2025 
 | Task                        | Status   | Priority | Notes                  |
 |-----------------------------|----------|----------|------------------------|
@@ -72,4 +73,9 @@ ref : https://www.youtube.com/watch?v=M652U3vh5SQ
 | Take home 2 task practive |  ☑ Done   | High   |    |
 | 95 page interview Qaution |  ☑ Done   | High   |    |
 | 1 DSA Question |  ☑ Done   | High   |    |
+
+**Day 8:** 28 November 2025 
+| Task                        | Status   | Priority | Notes                  |
+|-----------------------------|----------|----------|------------------------|
+| Work on review comments          | ☑ Done    | High     | |
 
