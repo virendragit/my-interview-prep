@@ -79,3 +79,8 @@ ref : https://www.youtube.com/watch?v=M652U3vh5SQ
 |-----------------------------|----------|----------|------------------------|
 | Work on review comments          | ☑ Done    | High     | |
 
+**Day 9:** 29 November 2025 
+| Task                        | Status   | Priority | Notes                  |
+|-----------------------------|----------|----------|------------------------|
+| today little slow only watch few tutorial video of flutter         | ☑ Done    | High     | |
+
