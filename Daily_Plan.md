@@ -84,3 +84,8 @@ ref : https://www.youtube.com/watch?v=M652U3vh5SQ
 |-----------------------------|----------|----------|------------------------|
 | today little slow only watch few tutorial video of flutter         | ☑ Done    | High     | |
 
+**Day 10:** 30 November 2025 
+| Task                        | Status   | Priority | Notes                  |
+|-----------------------------|----------|----------|------------------------|
+| Sunday braeak         | ☑ Done    | High     | |
+
