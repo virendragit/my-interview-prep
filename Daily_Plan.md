@@ -89,3 +89,7 @@ ref : https://www.youtube.com/watch?v=M652U3vh5SQ
 |-----------------------------|----------|----------|------------------------|
 | Sunday braeak         | ☑ Done    | High     | |
 
+**Day 11:** 01 December 2025 
+| Task                        | Status   | Priority | Notes                  |
+|-----------------------------|----------|----------|------------------------|
+| Continue on improving POC code         | ☑ Done    | High     | |
