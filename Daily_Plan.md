@@ -93,3 +93,8 @@ ref : https://www.youtube.com/watch?v=M652U3vh5SQ
 | Task                        | Status   | Priority | Notes                  |
 |-----------------------------|----------|----------|------------------------|
 | Continue on improving POC code         | ☑ Done    | High     | |
+
+**Day 12:** 02 December 2025 
+| Task                        | Status   | Priority | Notes                  |
+|-----------------------------|----------|----------|------------------------|
+| Fixed more issue and now poc is little more stable      | ☑ Done    | High     | |
