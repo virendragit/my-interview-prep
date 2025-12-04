@@ -100,11 +100,17 @@ ref : https://www.youtube.com/watch?v=M652U3vh5SQ
 | Fixed more issue and now poc is little more stable      | ☑ Done    | High     | |
 
 Retro : Again it is going off track
-**Day 12:** 02 December 2025 
+**Day 13:** 03 December 2025 
 | Task                        | Status   | Priority | Notes                  |
 |-----------------------------|----------|----------|------------------------|
 | 1.Touch-up in panding task of POC    | ☑ Done    | High     | |
 | 2.SwiftFul Thinking one topic   | ☑ Done    | High     | |
 | 3.95 page   | ☑ Done    | High     | |
 
+**Day 14:** 04 December 2025 (Try to do atleast 70--80% of task + Need to be more seriouse)
+| Task                        | Status   | Priority | Notes                  |
+|-----------------------------|----------|----------|------------------------|
+| 1.Touch-up in panding task of POC    | ☑ Done    | High     | |
+| 2.SwiftFul Thinking one topic   | ☑ Done    | High     | |
+| 3.95 page   | ☑ Done    | High     | |
 
