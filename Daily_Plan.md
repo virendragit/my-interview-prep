@@ -114,3 +114,12 @@ Retro : Again it is going off track
 | 2.SwiftFul Thinking one topic   | ☑ Done    | High     | |
 | 3.95 page   | ☑ Done    | High     | |
 
+**Day 15:** 05 December 2025 (Try to do atleast 70--80% of task + Need to be more seriouse)
+| Task                        | Status   | Priority | Notes                  |
+|-----------------------------|----------|----------|------------------------|
+| 1.POC Work for pending task (Big win yesterday demo was smooth)   | ☑ Done    | High     | |
+| 2.SwiftFul Thinking one topic   | ☑ Done    | High     | |
+| 3.95 page   | ☑ Done    | High     | |
+| 4.RUn new project  | ☑ Done    | High     | |
+
+
