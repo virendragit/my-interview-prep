@@ -123,3 +123,7 @@ Retro : Again it is going off track
 | 4.RUn new project  | ☑ Done    | High     | |
 
 
+**Day 16:** 06 December 2025 (Try to do atleast 70--80% of task + Need to be more seriouse)
+| Task                        | Status   | Priority | Notes                  |
+|-----------------------------|----------|----------|------------------------|
+| small break restart tomorrow  | ☑ Done  
