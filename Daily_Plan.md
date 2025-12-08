@@ -127,3 +127,13 @@ Retro : Again it is going off track
 | Task                        | Status   | Priority | Notes                  |
 |-----------------------------|----------|----------|------------------------|
 | small break restart tomorrow  | ☑ Done  
+
+**Day 17:** 07 December 2025 (Try to do atleast 70--80% of task + Need to be more seriouse)
+| Task                        | Status   | Priority | Notes                  |
+|-----------------------------|----------|----------|------------------------|
+| small break restart tomorrow  | ☑ Done  
+
+**Day 18:** 08 December 2025 (Try to do atleast 70--80% of task + Need to be more seriouse)
+| Task                        | Status   | Priority | Notes                  |
+|-----------------------------|----------|----------|------------------------|
+| Restart | ☑ Done  
