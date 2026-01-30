@@ -1,3 +1,53 @@
+
+## I am targetting 60 days plan here , In which taget is iOS,Android ,Flutter,DArt, DSA, System design and some extend of c#. Daily Target of 3 - 4 hrs (180 to to 240 hrs of prepration). I need to make daily plan excute review on daily basis for 60 days. During this time (Will be making 3 major 3 minor and 1 fun app and some working model of c# project if time alllows).
+
+## MAJOR: iOS ,Flutter , Android, DSA , System desgin (LOW + High level)
+Minor : c#,AWS,AI
+
+
+| Technology                        |persantage    |  | important                  |
+|-----------------------------|----------|----------|------------------------|
+| iOS           | |      | |
+| flutter/dart  |    |    |    |
+| android    |  |      |          |
+| DSA|   |       |    |
+| System Design Low|  |       |    |
+| System Design high|  |       |    |
+| c#|  | Low      |    |
+| AI|  | Low      |    |
+| AWS|  | Low      |    |
+
+## Note: need to add project i will be covering here
+
+**Day 1:** 30 Jan 2026 ☐ To Do  ☑ Done  
+| Task                        | Status   | Priority | Notes                  |
+|-----------------------------|----------|----------|------------------------|
+| Reading Flutter             | ☐ To Do  | High     |https://www.youtube.com/watch?v=TrXU0Q5-jMs |
+| iOS Basics List prepration  |  ☐ To Do  | Medium   |    |
+| Problem of the day Solution | ☐ To Do  | High     |          |
+| Make resume updated         | ☐ To Do  | ## Low      |    |
+| Apply to jobs               | ☐ To Do  | Low      |    |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## I am targetting 45 days plan here , In which taget is iOS ,Flutter, DSA, System design and some extend of c#. Daily Target of 3 - 4 hrs (130 to 180 hrs of prepration). I need to make daily plan excute review on daily basis for 45 days. During this time (Will be making 3 major 3 minor and 1 fun app and some working model of c# project if time alllows).
 
 - **Day 1:** 18 November 2025  
@@ -138,3 +188,6 @@ Retro : Again it is going off track
 |-----------------------------|----------|----------|------------------------|
 | Restart | ☑ Done  
 one week break
+
+
+
