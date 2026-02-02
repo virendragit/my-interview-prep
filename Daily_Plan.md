@@ -29,6 +29,15 @@ Minor : c#,AWS,AI
 | Apply to jobs               | ☐ To Do  | Low      |    |
 
 
+**Day 1:** 2 feb 2026 ☐ To Do  ☑ Done  
+| Task                        | Status   | Priority | Notes                  |
+|-----------------------------|----------|----------|------------------------|
+| Reading Flutter             | ☐ To Do  | High     |https://www.youtube.com/watch?v=TrXU0Q5-jMs |
+| iOS Basics List prepration  |  ☐ To Do  | Medium   |    |
+| Problem of the day Solution | ☐ To Do  | High     |          |
+| Make resume updated         | ☐ To Do  | ## Low      |    |
+| Apply to jobs               | ☐ To Do  | Low      |    |
+
 
 
 
