@@ -48,6 +48,16 @@ Minor : c#,AWS,AI
 | Make resume updated         | ☐ To Do  | ## Low      |    |
 | Apply to jobs               | ☐ To Do  | Low      |    |
 
+**Day 3:** 4 feb 2026 ☐ To Do  ☑ Done  
+| Task                        | Status   | Priority | Notes                  |
+|-----------------------------|----------|----------|------------------------|
+| Code debug for Client Portal             |   |      ||
+| DSA HEAP|   https://www.youtube.com/watch?v=_1AbrkD8pak|
+| iOS Basics List prepration  |  ☐ To Do  | Medium   |    |
+| Problem of the day Solution | ☐ To Do  | High     |          |
+| Make resume updated         | ☐ To Do  | ## Low      |    |
+| Apply to jobs               | ☐ To Do  | Low      |    |
+
 
 
 
