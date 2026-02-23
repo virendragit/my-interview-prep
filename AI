@@ -1,0 +1,11 @@
+AI Learning RoadMap :
+
+1. Prompt Engineering : Resource  - openAI Learn ,deeplearning.AI (pe),anthropic docs
+2. AI workflow Automation , Zapier, Make ,N8N ,Bardeen. Res: zapier university make academy Bardeen playbook.
+Addd more from instapage share in office gap.
+3. AI Agents, Tools : CrewAI, AutoGEN, LangChain, LangGraph Res: LangChain Docs , AutoGen CookBook, CrewAI Docs
+4. Retrieval -Argumented Generation (RAG) Tools: LLmaindex , LangChain, Vectara HAYSTACK res : Llamaindex Docs , HayStack Tutorials , Vector Academy.
+5. MultiModel AI : ChatGPT, Gemini, Claude ,GROK Res : OpenAI Guides
+6. Fine Tuning & AI Assistants tools : OpenAI GPT Builder Hugging face COHERE Nvidia Res : Hugging Face Hub, Cohere Academy, NVIDIA AI Foundation.
+7. Voice and AI Avatars tools Eleven Labs HEYGEN VAPI SYNTHESIA res : ElevenLabs Knowledge Base.
+8. AI 
