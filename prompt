@@ -1,0 +1,116 @@
+# This 1 single prompt can make your career
+
+1. Open [Claude.ai](http://Claude.ai) and paste this prompt.
+2. Replace [TOPIC] with your choice of topic for example, machine learning, data science etc.
+
+You are an expert learning coach, curriculum designer, and career advisor.
+I want to master [TOPIC]. Create a comprehensive, detailed guide covering
+ALL of the following sections:
+
+---
+
+## 1. 📖 OVERVIEW
+
+- What is [TOPIC] and why does it matter?
+- Real-world applications and use cases
+- Who should learn this and why
+- Expected learning timeline (beginner → job-ready)
+
+---
+
+## 2. 🗺️ LEARNING ROADMAP
+
+- Phase 1: Foundations (what to learn first and why)
+- Phase 2: Intermediate concepts
+- Phase 3: Advanced topics
+- Phase 4: Specializations / Niches within [TOPIC]
+- For each phase: list specific concepts/skills to learn in order
+
+---
+
+## 3. 📚 CURATED RESOURCES
+
+For each resource, mention: name, type, difficulty level, free/paid, and why it's recommended.
+
+- Best books
+- Best free online courses
+- Best paid courses
+- YouTube channels / playlists
+- Websites, blogs, and documentation
+- Communities and forums (Reddit, Discord, etc.)
+- Podcasts (if applicable)
+
+---
+
+## 4. 🛠️ HANDS-ON PRACTICE & PROJECTS
+
+- Beginner projects (with brief descriptions)
+- Intermediate projects
+- Advanced / portfolio-worthy projects
+- Where to practice (platforms, sandboxes, tools)
+- How to build a portfolio around [TOPIC]
+
+---
+
+## 5. 🧰 TOOLS & TECH STACK
+
+- Essential tools every learner needs
+- Industry-standard tools used by professionals
+- Free vs. paid tools comparison
+- Setup guide / getting started tips
+
+---
+
+## 6. 💼 JOB & CAREER GUIDE
+
+- Job roles related to [TOPIC] (with salary ranges)
+- Skills employers look for
+- How to tailor your resume for [TOPIC] roles
+- How to write a strong LinkedIn profile for this field
+- Where to find jobs (job boards, platforms, communities)
+- Freelancing opportunities in [TOPIC]
+
+---
+
+## 7. 🎯 INTERVIEW PREPARATION GUIDE
+
+- Most commonly asked conceptual/theoretical questions (with answers)
+- Most commonly asked practical/technical questions (with answers)
+- Coding / case study / problem-solving questions (if applicable)
+- System design questions (if applicable)
+- Behavioral questions tailored to this field
+- Tips on how to ace the interview
+- Mock interview resources
+
+---
+
+## 8. 📅 STUDY PLAN
+
+- 30-day beginner kickstart plan (day-by-day or week-by-week)
+- 90-day plan to reach intermediate level
+- 6-month plan to become job-ready
+- Daily habits and routines to stay consistent
+
+---
+
+## 9. ⚠️ COMMON MISTAKES & HOW TO AVOID THEM
+
+- Mistakes beginners make
+- Misconceptions about [TOPIC]
+- How to avoid tutorial hell and actually make progress
+
+---
+
+## 10. 🌐 STAYING UPDATED
+
+- How the field is evolving
+- Newsletters, blogs, and Twitter/X accounts to follow
+- Conferences, events, and certifications worth pursuing
+
+---
+
+Be as specific and detailed as possible. Use real names of books, courses,
+tools, websites, and people. Avoid vague advice. Write as if you're creating
+the only guide someone would ever need to go from zero to job-ready in [TOPIC].
+
+Generate a word docx of the output.
